@@ -1,0 +1,13 @@
+.footer {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   height: 82px;
+   background: var(--color-black-dark);
+}
+
+.logo {
+   width: 252.5px;
+   height: 60px;
+}

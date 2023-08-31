@@ -1,0 +1,31 @@
+.header {
+   background-color: var(--color-black-dark);
+   color: white;
+   height: 94px;
+
+   padding: 0 40px;
+
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.logo {
+   width: 168.45px;
+   height: 40px;
+}
+
+.button {
+   width: 180.125px;
+   height: 54px;
+
+   border-color: white;
+   border: solid 0.8px;
+
+   color: #fff;
+   text-align: center;
+   font-family: Source Sans Pro;
+   font-size: 21px;
+   font-weight: 600;
+   line-height: 24px;
+}
